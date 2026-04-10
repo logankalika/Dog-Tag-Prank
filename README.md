@@ -1,10 +1,11 @@
 This software runs in the terminal using Python. 
 
 Features
-Customizable file path 
 
-Customizable "Dog Tag" message
+-Customizable file path 
 
-Intuitive terminal guidance 
+-Customizable "Dog Tag" message
 
-Warning message to confirm old data will be trunicated
+-Intuitive terminal guidance 
+
+-Warning message to confirm old data will be trunicated
