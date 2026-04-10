@@ -1,5 +1,7 @@
 This software runs in the terminal using Python. 
 
+To run this program in the terminal, type 'python dog_tag_prank.py'
+
 Features
 
 -Customizable file path 
