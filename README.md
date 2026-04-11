@@ -11,3 +11,4 @@ Features
 -Intuitive terminal guidance 
 
 -Warning message to confirm old data will be trunicated
+
